@@ -1,2 +1,2 @@
 # MERN-ExpenseTracker
-![]("Project Video.gif")
+![]("Project Video".gif)
